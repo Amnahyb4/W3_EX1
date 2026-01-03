@@ -118,34 +118,6 @@ Model:
 
 ---
 
-#### **M3.02 / M3.03 – Advanced Tuning (Foundations)**
-- Prepared pipelines for:
-  - Grid Search
-  - Randomized Search
-- Learned how to:
-  - Access pipeline parameters via `model.get_params()`
-  - Tune parameters inside pipelines safely
-- Studied the **bias–variance trade-off**
-
-📂 Datasets:
-- `adult-census.csv`
-- `fetch_california_housing`
-
----
-
-## Key Concepts Practiced
-
-- End-to-end machine learning pipelines  
-- Feature preprocessing  
-- Encoding strategies  
-- Model comparison  
-- Baseline vs advanced models  
-- Cross-validation  
-- Hyperparameter tuning  
-- Tree-based vs linear model behavior  
-
----
-
 ## Technologies Used
 
 - Python 3.11
@@ -177,7 +149,7 @@ Model:
 ├── parameter_tuning_ex_02.ipynb
 └── README.md
 
-## ✅ Learning Outcomes
+##  Learning Outcomes
 
 - Built end-to-end machine learning pipelines using scikit-learn  
 - Explored and prepared tabular data with numerical and categorical features  
