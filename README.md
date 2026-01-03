@@ -118,6 +118,16 @@ Model:
 
 ---
 
+##  Learning Outcomes
+
+- Built end-to-end machine learning pipelines using scikit-learn  
+- Explored and prepared tabular data with numerical and categorical features  
+- Applied appropriate encoding strategies and preprocessing techniques  
+- Evaluated models using cross-validation and baseline comparisons  
+- Performed hyperparameter tuning and analyzed model performance
+  
+---
+
 ## Technologies Used
 
 - Python 3.11
@@ -149,10 +159,5 @@ Model:
 ├── parameter_tuning_ex_02.ipynb
 └── README.md
 
-##  Learning Outcomes
 
-- Built end-to-end machine learning pipelines using scikit-learn  
-- Explored and prepared tabular data with numerical and categorical features  
-- Applied appropriate encoding strategies and preprocessing techniques  
-- Evaluated models using cross-validation and baseline comparisons  
-- Performed hyperparameter tuning and analyzed model performance  
+-
